@@ -24,6 +24,3 @@ int main (){
 	return 0;
 }
 
-
-//printf("\nValor:\n");
-//scanf("%d", &m[i][j]);

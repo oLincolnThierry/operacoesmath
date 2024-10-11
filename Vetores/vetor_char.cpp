@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<locale.h>
-char nome[5][20]={"avião","gato","papagaio","casa","madeira"};
+char nome[5][20]={"aviao","gato","papagaio","casa","madeira"};
 int i;
 int main(){
 	setlocale(LC_ALL,"Portuguese");
