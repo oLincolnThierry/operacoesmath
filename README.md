@@ -1,4 +1,4 @@
-<h1>Desenvolvimento na linguagem de programção C++</h1>
+<h1>Desenvolvimento na linguagem de programação C++</h1>
 <img src="https://dominickm.com/wp-content/uploads/2021/03/1522635669452_11.jpg" width="1000" height="400">
 <h2>Overview</h2>
 <p><strong>Conversão de Medida de Temperatura</strong>
